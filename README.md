@@ -27,10 +27,6 @@ Use otu_labels for the text values.
 
 ![Dashboard](https://github.com/user-attachments/assets/45ded017-22f0-47af-9a41-647554f7428a)
 
-
-hw
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
-
-hw
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
